@@ -4,9 +4,9 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkorb&label=Profile%20views&color=0e75b6&style=flat" alt="dkorb" /> </p>
 
-- 🔭 I’m currently working on **WebShopApp**
+- 🔭 Store management system (engineering thesis) [WorkShopApp](https://github.com/DKorb/WebShopApp)
 
-- 🌱 I’m currently learning **Spring boot, Hibernate and more...**
+- 🌱 I’m currently learning **Spring boot, hibernate,  thymeleaf and more...**
 
-- 📫 How to reach me **dawid.korbecki@o2.pl**
+- 📫 How to reach me **dawid.korbecki@protonmail.com or dawid.korbecki@o2.pl**
 </p>
