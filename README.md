@@ -1,12 +1,31 @@
-<h1 align="center">Hi 👋, I'm Dawid Korbecki</h1>
-<div align="center">
-  <img src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47v58g2pewbkia0h1g6f0klqlmd48lkyv61cni8qyx&rid=giphy.gif&ct=g" width="600" height="300"/>
-</div>
+## Hi there 👋
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkorb&label=Profile%20views&color=0e75b6&style=flat" alt="dkorb" /> </p>
 
-- 🔭 Working on store management system (engineering thesis) [WebShopApp](https://github.com/DKorb/WebShopApp)
+Welcome to my GitHub!
+ <b> My name is Dawid Korbecki </b>
 
-- 🌱 I’m currently learning **spring boot, hibernate,  thymeleaf and more...**
+ ## About me:
+- 👀 I'm interested in Java, React, SQL
+- 📫 How to reach me dawid.korbecki@proton.me
 
-- 📫 How to reach me **dawid.korbecki@protonmail.com or dawid.korbecki@o2.pl**
-</p>
+### Projects:
+
+|Repo|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
+|:---|:---|:---:|
+|[WebShopApp](https://github.com/DKorb/WebShopApp) |In progress| Full-featured online store system with analysis of recommended products 
+|[LiquorStoreApp](https://github.com/DKorb/LiquorStoreApp)| Finished | Group project, small online store for studies written in react native |
+|[Contact Database](https://github.com/DKorb/C-BazaDanych)| Finished | Contact database written in C language |
+|[Checkers](https://github.com/DKorb/Warcaby) | Finished | English checkers game written for university project |
+
+
+## Technologies
+* OOP with **Java**
+* Low level programming in **C language**
+* Project management with tools like **git**
+* Basics knowledge of **SQL and PL/SQL**
+
+##  I’m currently learning ...
+* Java :coffee:
+* Spring boot, Hibernate 🌱
+* React ⁉️
