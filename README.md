@@ -13,10 +13,9 @@ Welcome to my GitHub!
 
 |Repo|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
 |:---|:---|:---:|
-|[WebShopApp](https://github.com/DKorb/WebShopApp) |In progress| Full-featured online store system with analysis of recommended products 
-|[LiquorStoreApp](https://github.com/DKorb/LiquorStoreApp)| Finished | Group project, small online store for studies written in react native |
+|[Electronics online shop](https://github.com/DKorb/WebShopApp) |In progress| Full-featured online store system with analysis of recommended products 
 |[Contact Database](https://github.com/DKorb/C-BazaDanych)| Finished | Contact database written in C language |
-|[Checkers](https://github.com/DKorb/Warcaby) | Finished | English checkers game written for university project |
+|[English Checkers](https://github.com/DKorb/Warcaby) | Finished | English checkers game written for university project |
 
 
 ## Technologies
