@@ -11,9 +11,10 @@ Welcome to my GitHub!
 
 ### Projects:
 
-|Repo|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
+|Repository|Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
 |:---|:---|:---:|
 |[Electronics online shop](https://github.com/DKorb/WebShopApp) |In progress| Full-featured online store system with analysis of recommended products 
+|[Blog application REST API](https://github.com/DKorb/rest-blog-app) |In progress| REST-API for blog app
 |[Contact Database](https://github.com/DKorb/C-BazaDanych)| Finished | Contact database written in C language |
 |[English Checkers](https://github.com/DKorb/Warcaby) | Finished | English checkers game written for university project |
 
