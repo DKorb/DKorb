@@ -23,8 +23,6 @@ Welcome to my GitHub! My name is <b>  Dawid Korbecki </b>
 * <b> Hibernate </b>
 * <b> SQL </b>
 * <b> Docker & Docker compose </b>
-* <b> MVC </b>
-* <b> REST API </b>
 * <b> GIT </b>
 * <b> Maven </b>
 * <b> Liquibase </b>
