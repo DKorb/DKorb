@@ -1,12 +1,9 @@
-## Hi there 👋
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkorb&label=Profile%20views&color=0e75b6&style=flat" alt="dkorb" /> </p>
 
-Welcome to my GitHub!
- <b> My name is Dawid Korbecki </b>
+Welcome to my GitHub! My name is <b>  Dawid Korbecki </b>
 
- ## About me:
-- 👀 I'm interested in Java, React, SQL
+ ## About me
+- 👀 I'm interested in web development
 - 📫 How to reach me dawid.korbecki@proton.me
 
 ### Projects:
@@ -19,13 +16,20 @@ Welcome to my GitHub!
 |[English Checkers](https://github.com/DKorb/Warcaby) | Finished | English checkers game written for university project |
 
 
-## Technologies
-* OOP with **Java**
-* Low level programming in **C language**
-* Project management with tools like **git**
-* Basics knowledge of **SQL and PL/SQL**
-
-##  I’m currently learning ...
-* Java :coffee:
-* Spring boot, Hibernate 🌱
-* React ⁉️
+## Technologies 🔧
+ 
+* <b> JAVA </b>
+* <b> Spring Boot </b>
+* <b> Hibernate </b>
+* <b> SQL </b>
+* <b> Docker & Docker compose </b>
+* <b> MVC </b>
+* <b> REST API </b>
+* <b> GIT </b>
+* <b> Maven </b>
+* <b> Liquibase </b>
+* <b> JUnit </b>
+* <b> Mockito </b>
+* <b> Lombok </b>
+* <b> Modelmapper </b>
+* <b> Thymeleaf & HTML & CSS </b>
