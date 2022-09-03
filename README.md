@@ -25,7 +25,7 @@ Welcome to my GitHub! My name is <b>  Dawid Korbecki </b>
 * <b> Docker & Docker compose </b>
 * <b> GIT </b>
 * <b> Maven </b>
-* <b> Liquibase </b>
+* <b> Liquibase & Flyway</b>
 * <b> JUnit </b>
 * <b> Mockito </b>
 * <b> Lombok </b>
